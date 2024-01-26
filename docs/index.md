@@ -5,7 +5,8 @@ nav_order: 1
 ---
 
 
-## AAAI 2024 tutorial on ```Out-of-Distribution Generalization in Time Series```
+#  Out-of-Distribution Generalization in Time Series
+> Tutorial in the 38th Annual AAAI Conference on Artificial Intelligence  (AAAI 2024)
 
 * Tuesday, 20 February 2024 
 * 2:00 pm - 3:45 pm (PST)
