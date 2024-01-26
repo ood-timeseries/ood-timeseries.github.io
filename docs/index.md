@@ -37,8 +37,9 @@ Recent research findings in this emerging field and their implications will be u
 * Methodology
 * Datasets, benchmarks and evaluations
 * Summary, future directions and discussion
+  
+<img width="680" alt="methods-diagram" src="https://github.com/ood-timeseries/ood-timeseries.github.io/assets/115447920/653d89dd-bce5-4923-9251-cb11999ad71c">
 
-### Reference
 
 ### Resources
 Slides can be downloaded from [here](#).
