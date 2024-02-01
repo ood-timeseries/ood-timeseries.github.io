@@ -42,4 +42,4 @@ Recent research findings in this emerging field and their implications will be u
 
 
 ### Resources
-Slides can be downloaded from [here](#).
+Slides can be downloaded from [here](https://github.com/ood-timeseries/ood-timeseries.github.io/files/14126236/AAAI24_tutorial_OOD_in_time_series__slides_02012024-website.pdf).
